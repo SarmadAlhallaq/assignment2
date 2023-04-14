@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">assignment2</string>
+    <string name="in_the_resturant">in the resturant</string>
+    <string name="contactUs" />
+    <string name="takeAway" />
+    <string name="inResturant" />
+    <string name="inRestaurant" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blank_Fragment" />
+</resources>
